@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    
+}
+header p{
+background-color: aqua;
+padding: 30px;
+margin: 10px;
+background-image: linear-gradient(to right,cyan,white,cyan);
+color: blue;
+box-shadow:  5px 5px 10px 0  royalblue;
+border: 3px solid  royalblue;
+}
+h2 p{ 
+color: darkgreen;
+ background-color: yellow
+}
+h2 p:hover{
+color: mediumblue;
+background-color: lightblue;
+}
+p img{
+width: 45px;
+height: 45px;
+
+}
+footer img{
+width: 55px;
+height: 55px;
+}
+footer img:hover{
+ transform: translateY(10px) translateX(200px);
+    transition: 3s ease-in;
+
+    
+}
+
+footer p{
+color: orange;
+background-color: blueviolet;
+
+}
+
+footer{
+background-color: purple;
+    
+}
+footer p:hover{
+color:blueviolet ;
+ background-color: orange;   
+}
+h3 {
+color: black;
+background-color: red;
+text-align: center;  
+}
+h3:hover{
+color: red;
+background-color: black;
+}
+main p{
+text-align: center;
+
+}
+h1 p:hover{
+color: lightskyblue;
+
+}
